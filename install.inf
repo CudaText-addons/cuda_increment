@@ -1,0 +1,15 @@
+[info]
+title=Increment
+desc=Increases/decreases value under caret (e.g. "100px" or "2.10em"). See CudaText wiki, about plugins config, how to assign hotkeys to inc/dec commands.
+type=cudatext-plugin
+subdir=cuda_increment
+
+[item1]
+section=commands
+caption=Increment\Increase
+method=inc
+
+[item2]
+section=commands
+caption=Increment\Decrease
+method=dec
